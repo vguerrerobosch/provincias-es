@@ -1,0 +1,16 @@
+{
+    "name": "vguerrerobosch/provincias-es",
+    "authors": [
+        {
+            "name": "Victor Guerrero Bosch",
+            "email": "victorg@hey.com"
+        }
+    ],
+    "require": {},
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Vguerrerobosch\\Provincias\\": "src/"
+        }
+    }
+}
